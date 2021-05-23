@@ -1,0 +1,15 @@
+{
+  "name": "gaming-bot",
+  "version": "1.0.0",
+  "description": "Discord-Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igorce05",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.7.0",
+    "discord.js": "^12.4.1"
+  }
+}
